@@ -10,12 +10,15 @@ const About = (props) => (
         <img src="assets/about.jpg" alt="yeet" />
       </div>
       <p>
-        Hey, thanks for stopping by! My name's Ethan, I'm a  computer science student at the University of Toronto.
-        I'm currently working at Wish as a Software Engineer Intern. Previously, I was the marketing director for the Mathematics and Computational
-        Society at UTM, the head teaching assistant for CSC301, and a Software Development Intern at HSBC! If you're reading this because we met at TechCrunch, 
-        hi, how's it going, hope you're having a wonderful day and glad you're checking me out!
+        Hey, thanks for stopping by! My name's Ethan, I'm a Software Engineer at Warner Music Group.
+        I just recently graduated from the University of Toronto, which means I haven't done enough out of school 
+        to fill this about section with impressive things (and everyone else's website has a bunch of impressive things 
+        in their about sections), so here's some of the stuff I did while I was in school. 
+                <br /> <br />
+        I founded the UTM Urbanism Club, I was the marketing director for the Mathematics and Computational
+        Society at UTM, a Software Engineering intern at Wish (yes, that Wish), the head teaching assistant for CSC301, and a Software Development Intern at HSBC! 
         <br /> <br />
-        I'm interested in music, rock climbing, kayaking, and solving problems with code.
+        I'm interested in music, walkable cities, kayaking, and solving problems with code.
         If you wanna talk to me about any of that, send me a message!
         <br />
         <br />
